@@ -10,7 +10,7 @@ class WordsByChars
 		int n = sc.nextInt();
 		ArrayList<String> list = new ArrayList<>();
 		
-		HashMap<Character,Integer> map1 = new HashMap<>();
+		HashMap<Character,Integer> map1 = new HashMap<>(); //for characters
 		for(int i=0 ; i<n ; i++)
 		{
 			String s = sc.next();
@@ -34,7 +34,7 @@ class WordsByChars
 		for(String i:list)
 		{
 			int flag = 1;
-			HashMap<Character,Integer> map = new HashMap<>();
+			HashMap<Character,Integer> map = new HashMap<>(); //for strings
 			for(int j=0;j<i.length();j++)
 			{
 				if(map.containsKey(i.charAt(j)))
