@@ -43,12 +43,9 @@ public class ExpHashMap
 			else
 			{
 				if(min>val)
-				{
 					min=val;
-				}
 			}
 		}
 		System.out.println(min);
-		
 	}
 }
