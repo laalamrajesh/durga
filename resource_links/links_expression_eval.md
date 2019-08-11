@@ -13,7 +13,7 @@
   `ScriptEngineManager manager = new ScriptEngineManager();`</br>
   `ScriptEngine engine = manager.getEngineByName("js");`</br>
   `Object result = engine.eval("4*5");`</br>
-  `System.out.println(result);`</br>
+  `System.out.println(result); //output 20`</br>
   
 - **Sample Example**</br>
   `class ExampleEval`</br>
