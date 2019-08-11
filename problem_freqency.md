@@ -10,7 +10,7 @@
 `12213`</br>
 
 
-**Explanation **
+**Explanation**
 
 - n = 2 strings
 - m = 9 length of each string
