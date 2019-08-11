@@ -21,7 +21,8 @@
   - Successfully Created Account
 
 
-**Acount Details** <br />
+**Sample Output** <br />
+
 `Name - Durga`<br />
 `Account Number - 12345678901`<br />
 `Amount - 0`<br />
