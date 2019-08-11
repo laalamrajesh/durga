@@ -6,7 +6,7 @@
 
 > ## Oops in Java
 - https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
-  - > You can avoid **Message Passing** in above
+   You can avoid **Message Passing** in above
 
 
 
