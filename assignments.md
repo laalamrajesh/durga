@@ -9,7 +9,7 @@
       
       
       
-**Sample Input**
+**Sample Input**<br />
 `Name of Accountant : r@jesh`<br />
 `Invalid Name Entered`<br />
 `Name of Accountant : durgA`<br />
@@ -21,7 +21,7 @@
 `Successfully Created Account`<br />
 
 
-**Sample Output** 
+**Sample Output** <br />
 `Name - Durga`<br />
 `Account Number - 12345678901`<br />
 `Amount - 0`<br />
