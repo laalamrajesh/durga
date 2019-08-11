@@ -9,8 +9,8 @@
       
       
       
-## Example :
-  - Name of Accountant : r@jesh
+**Sample Input**
+  - Name of Accountant : r@jesh 
   - Invalid Name Entered
   - Name of Accountant : durgA
   - Account Number : 123456u
@@ -21,9 +21,9 @@
   - Successfully Created Account
 
 
-**Acount Details**
-`Name - Durga`
-`Account Number - 12345678901`
-`Amount - 0`
+**Acount Details** <br />
+`Name - Durga`<br />
+`Account Number - 12345678901`<br />
+`Amount - 0`<br />
 
       
