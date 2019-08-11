@@ -21,9 +21,9 @@
   - Successfully Created Account
 
 
-> *Acount Details :*\n
-*Name - Durga*
-*Account Number - 12345678901*
-*Amount - 0*
+**Acount Details**
+`Name - Durga`
+`Account Number - 12345678901`
+`Amount - 0`
 
       
