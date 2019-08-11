@@ -21,7 +21,7 @@
   - Successfully Created Account
 
 
-*Acount Details :*
+> *Acount Details :*\n
 *Name - Durga*
 *Account Number - 12345678901*
 *Amount - 0*
