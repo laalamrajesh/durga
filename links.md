@@ -1,6 +1,6 @@
 ## Practice Thoughtworks 
-https://www.geeksforgeeks.org/thoughtworks-interview-experience-coding-round/
+- https://www.geeksforgeeks.org/thoughtworks-interview-experience-coding-round/
  
 ## Classes and objects Java : 
-      https://www.javatpoint.com/object-and-class-in-java
+- https://www.javatpoint.com/object-and-class-in-java
 
