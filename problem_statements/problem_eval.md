@@ -13,4 +13,4 @@
 - given `string` is `8c7z72`
 - `string` contains alphabets `c` and `z`, which values are `c=3` and `z=26`
 - replace `characters` with their respective `values`.
-- `:) That's it`.
+- `That's it`.
