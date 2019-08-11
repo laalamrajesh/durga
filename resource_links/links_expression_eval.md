@@ -4,6 +4,9 @@
   `import javax.script.ScriptEngineManager;`</br>
   `import javax.script.ScriptException;`</br>
   > **simply** `import javax.scrip.*;`
+
+- **Handle Exceptioin**
+  `throws ScriptException`
   
 - **Usage**</br>
   `ScriptEngineManager manager = new ScriptEngineManager();`</br>
