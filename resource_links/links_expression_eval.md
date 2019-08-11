@@ -23,7 +23,7 @@
           `ScriptEngineManager manager = new ScriptEngineManager();`</br>
           `ScriptEngine engine = manager.getEngineByName("js");`</br>
           ` Object result = null;`</br>
-          `result = engine.eval("1 + 2;");`</br>
-          `System.out.println(result);`</br>
+          `result = engine.eval("1 + 2");`</br>
+          `System.out.println(result); //output 3`</br>
       `}`</br>
   `}`</br>
