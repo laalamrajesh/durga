@@ -9,7 +9,7 @@
       
       
       
-##Example :
+## Example :
   - Name of Accountant : r@jesh
   - Invalid Name Entered
   - Name of Accountant : durgA
@@ -20,9 +20,10 @@
   - Account Number : 12345678901
   - Successfully Created Account
 
-  **Acount Details :**
-  **Name - Durga**
-  **Account Number - 12345678901**
-  **Amount - 0**
+
+*Acount Details :*
+*Name - Durga*
+*Account Number - 12345678901*
+*Amount - 0*
 
       
