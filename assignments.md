@@ -10,15 +10,15 @@
       
       
 **Sample Input**
-`Name of Accountant : r@jesh`
-`Invalid Name Entered`
-``Name of Accountant : durgA`
-`Account Number : 123456u`
-`Invalid Acc No ** Must contain numbers`
-`Account Number : 123456`
-`Invalid Acc No ** Length must be 11`
-`Account Number : 12345678901`
-`Successfully Created Account`
+`Name of Accountant : r@jesh`<br />
+`Invalid Name Entered`<br />
+`Name of Accountant : durgA`<br />
+`Account Number : 123456u`<br />
+`Invalid Acc No ** Must contain numbers`<br />
+`Account Number : 123456`<br />
+`Invalid Acc No ** Length must be 11`<br />
+`Account Number : 12345678901`<br />
+`Successfully Created Account`<br />
 
 
 **Sample Output** 
