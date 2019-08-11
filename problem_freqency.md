@@ -1,4 +1,4 @@
-> ## Take `n` number of strings with length `m` as input. find the frequency of characters in each string. Print the **mimimum sequence of frequencies** .
+> ## Take `n` number of strings with length `m` as input. find the frequency of characters in each string. Print the `mimimum sequence of frequencies`.
 
 
 > Test case 0 :</br>
