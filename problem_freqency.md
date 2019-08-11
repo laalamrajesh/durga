@@ -1,14 +1,13 @@
-**Take n number of strings with length m as input. find the frequency of characters in each string. 
-print the mimimum sequence of frequencies .**
+## Take n number of strings with length m as input. find the frequency of characters in each string. Print the mimimum sequence of frequencies .
 
 
-> Test case 0 :
-  `2 9`
-  `gabacddbd`
-  `baabdfgfg`
+> Test case 0 :</br>
+  `2 9`</br>
+  `gabacddbd`</br>
+  `baabdfgfg`</br>
 
-> Output :
-`12213`
+> Output :</br>
+`12213`</br>
 
 
 **Explanation **
