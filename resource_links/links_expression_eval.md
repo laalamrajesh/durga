@@ -5,8 +5,9 @@
   `import javax.script.ScriptException;`</br>
   > **simply** `import javax.scrip.*;`
 
-- **Handle Exceptioin**
+- **Handle Exceptioin**</br>
   `throws ScriptException`
+  > **simply** `public static void main(String[] args)` **throws ScriptException**
   
 - **Usage**</br>
   `ScriptEngineManager manager = new ScriptEngineManager();`</br>
