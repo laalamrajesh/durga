@@ -6,7 +6,7 @@
   > **simply** `import javax.scrip.*;`
 
 - **Handle Exceptioin**</br>
-  `throws ScriptException`
+  `The method where we are using eval throws ScriptException. To handle that we write as below.`
   > **simply** `public static void main(String[] args)` **throws ScriptException**
   
 - **Usage**</br>
