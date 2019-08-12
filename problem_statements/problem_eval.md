@@ -13,4 +13,4 @@
 - given `string` is `8c7z72`
 - `string` contains alphabets `c` and `z`, which values are `c=3` and `z=26`
 - replace `characters` with their respective `values`. return `string`
-- after evaluating we get `1371` as output.
+- after evaluating `837+267*2`, we get `1371` as output.
