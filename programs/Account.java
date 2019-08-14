@@ -10,13 +10,31 @@ class Account
 		this.name=name;
 		this.accountNumber=accountNumber;
 	}
+	public void depositeAmount(double amount)
+	{
+		this.amount = this.amount+amount;
+	}
+	public void withdrawAmount(double amount)
+	{
+		if(amount<=0)
+			System.out.println("Sorry Your Account Is Empty\n");
+		else
+		{
+			if(this.amount>amount)
+			{
+				this.amount = this.amount-amount;
+				System.out.println(amount+" "+"Successfully debited from your account\nRemaining Amount"+this.amount+"\n");
+			}
+			else
+				System.out.println("Sorry, Your Account Have Insufficient Money\n");
+		}
+	}
 	public void display()
 	{
 		name=name.toLowerCase();
 		int c=(int)name.charAt(0)-32;
 		name=(char)c+name.substring(1,name.length());
 		System.out.println("\nName: "+name+"\n"+"Account Number : "+accountNumber+"\n"+"Amount : "+amount);
-		
 	}
 }
 class IsValid
@@ -71,6 +89,7 @@ class Demo
 		Scanner sc = new Scanner(System.in);
 		int accept;
 		String name,accountNumber;
+		double amount=0;
 		IsValid iv = new IsValid();
 		do
 		{
@@ -90,6 +109,25 @@ class Demo
 		
 		System.out.println("Account Successfully Created");
 		Account acc = new Account(name,accountNumber);
+		do
+		{
+			System.out.println("1.Deposite Amount\n2.Withdraw Amount");
+			int option = sc.nextInt();
+			if(option==1)
+			{
+				System.out.println("Please enter the diposite money: ");
+				amount = sc.nextDouble();
+				acc.depositeAmount(amount);
+			}
+			else
+			{
+				System.out.println("Please enter the withdraw money: ");
+				amount = sc.nextDouble();
+				acc.withdrawAmount(amount);
+			}
+			System.out.println("if you want to withdraw or diposite money\n1.Yes\n2.No");
+			accept = sc.nextInt();
+		}while(accept==1);
 		acc.display();
 	}
 }
